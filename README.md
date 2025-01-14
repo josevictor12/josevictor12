@@ -10,4 +10,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josevictor12/josevictor12/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josevictor12/josevictor12/output/github-contribution-grid-snake.svg">
 </picture>
-![Snake animation](https://github.com/josevictor12/josevictor12/blob/output/github-contribution-grid-snake.svg)
