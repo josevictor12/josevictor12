@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**josevictor12/josevictor12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Olá! Eu sou o José Victor 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +7,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="github.com/josevictor12"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevictor12&show_icons=true&theme=dark&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictor12&layout=compact&langs_count=16&theme=dark">
+</div>
